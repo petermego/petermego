@@ -4,7 +4,7 @@
 - HTML5, CSS3, Javascript
 - Git & Github
 
-#### other languages:
+####  Other languages:
 - C & C++
 
 
