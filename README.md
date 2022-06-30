@@ -1,7 +1,12 @@
 # Hi there I'm Peter
 
 ## about the technologies i've been learnt:
-- HTML5, CSS3, Javascript, C & C++
+- HTML5, CSS3, Javascript
+- Git & Github
+
+#### other languages:
+- C & C++
+
 
 ### About me:
 <!--- 🔭 I’m currently working on ...-->
