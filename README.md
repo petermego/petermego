@@ -5,7 +5,7 @@
 - Git & Github
 
 ####  Other languages:
-- C & C++
+- C & C++ , JAVA
 
 
 ### About me:
