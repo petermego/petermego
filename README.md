@@ -1,7 +1,7 @@
 # Hi there I'm Peter
 
 ## about the technologies i've been learnt:
-- HTML5, CSS3, Javascript, React js
+- HTML5, CSS3, Javascript, Bootstrap, React js
 - Git & Github
 
 ####  Other languages:
