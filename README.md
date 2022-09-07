@@ -1,7 +1,7 @@
 # Hi there I'm Peter
 
 ## about the technologies i've been learnt:
-- HTML5, CSS3, Javascript
+- HTML5, CSS3, Javascript, Bootstrap
 - Git & Github
 
 ####  Other languages:
@@ -10,7 +10,7 @@
 
 ### About me:
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning Bootstrap, React js in parallel
+- 🌱 I’m currently learning Go, React js in parallel
 - 🔭 I’m currently heading a goal to be a Full Stack developer
 - ⚡ Fun fact: in 2019 i learnt HTML as a programming language
 <!--
