@@ -10,7 +10,7 @@
 ### UI Frameworks:
  Bootstrap;
 ### Other Tech & Tools:
- [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com) 
+ [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
 
 
 ### About me:
