@@ -5,12 +5,12 @@
 - Git & Github
 
 ####  Other languages:
-- C & C++ , Java
+- C & C++, Java, Go
 
 
 ### About me:
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning Go, React js in parallel
+- 🌱 I’m currently learning React js
 - 🔭 I’m currently heading a goal to be a Full Stack developer
 - ⚡ Fun fact: in 2019 i learnt HTML as a programming language
 <!--
