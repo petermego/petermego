@@ -1,7 +1,7 @@
 # Hi there I'm Peter
 
 ## about the technologies i've been learnt:
-#### Languages:
+### Languages:
 - C++, Java, Go, Python, Javascript;
 ### Frameworks:
 - React JS;
