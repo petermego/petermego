@@ -5,7 +5,7 @@
 - C++, Java, Go, Python, Javascript;
 ### Frameworks:
 - React JS;
-### Cloud platforms:
+### Cloud Platforms:
 - Firebase;
 ### UI Frameworks:
 - Bootstrap;
