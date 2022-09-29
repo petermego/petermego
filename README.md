@@ -2,7 +2,7 @@
 
 ## about the technologies i've been learnt:
 ### Languages:
-- C++, Java, Go, Python, Javascript;
+- <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">, Java, Go, Python, Javascript;
 ### Frameworks:
 - React JS;
 ### Cloud Platforms:
