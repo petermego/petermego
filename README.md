@@ -4,7 +4,7 @@
 #### Languages:
 - C++, Java, Go, Python, Javascript;
 ### Frameworks:
-- React JS
+- React JS;
 ### Cloud platforms:
 - Firebase;
 ### UI Frameworks:
