@@ -19,7 +19,7 @@
 
 ### About me:
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning MongoDB
 - 🔭 I’m currently heading a goal to be a Full Stack developer.
 - ⚡ Fun fact: in 2019 i learnt HTML as a programming language.
 <!--
