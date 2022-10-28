@@ -7,7 +7,7 @@
 ### Frameworks:
  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
  
-### Cloud Platforms:
+### Backend Platforms:
  <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
  
 ### UI Frameworks:
