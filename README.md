@@ -24,6 +24,8 @@
 <img src="https://komarev.com/ghpvc/?username=petermego&&style=flat-square" align="center" />
 </div>  
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=petermego&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br/>  
 
 ### About me:
