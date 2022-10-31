@@ -28,6 +28,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=petermego&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br/>  
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ### About me:
 <!--- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning some db concepts
