@@ -16,6 +16,9 @@
 ### Other Tech & Tools:
  [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=petermego&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 ### About me:
 <!--- 🔭 I’m currently working on ...-->
