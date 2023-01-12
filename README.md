@@ -17,18 +17,18 @@
  [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com) <img src="https://camo.githubusercontent.com/dcba282d85f141d78beb44a3a4f48c7f929f3ac7aaedd77a490e7a64fdcf2096/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143433f7374796c653d666c6174266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&amp;logo=visual%20studio%20code&amp;logoColor=white" style="max-width: 100%;"> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=petermego&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=petermego&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/> -->
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://komarev.com/ghpvc/?username=petermego&&style=flat-square" align="center" />
-</div>  
+</div>   -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=petermego&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=petermego&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=petermego&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<br/>  
+<br/>   -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
