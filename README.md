@@ -4,7 +4,7 @@
 ### Languages:
  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
  
-### Frameworks:
+### UI Platforms:
  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
  
 ### Backend Platforms:
