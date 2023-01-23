@@ -1,6 +1,6 @@
 # Hi there I'm Peter
 
-## About me:
+### About me:
 <!--- 🔭 I’m currently working on ...-->
 - 🔭 I’m currently learning Flask and contributing more projects.
 - ⚡ Fun fact: in 2019 i learnt HTML as a programming language.
