@@ -24,7 +24,7 @@
 
 ### About me:
 <!--- 🔭 I’m currently working on ...-->
-- 🔭 I’m currently heading a goal to be a Data Scientist.
+- 🔭 I’m currently learning Flask and contributing more projects.
 - ⚡ Fun fact: in 2019 i learnt HTML as a programming language.
 <!--
 - 👯 I’m looking to collaborate on ...
