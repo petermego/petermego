@@ -31,9 +31,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=petermego&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br/>   -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## Contact with me:
 
 <a href="https://www.linkedin.com/in/peter-bakhoum/" target="_blank">
